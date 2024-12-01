@@ -63,6 +63,7 @@ ul li {
 .table-section td:nth-child(2) {
   width: 600px;
   text-align: center;
+	margin: 50px;
 }
 
 .table-section img {
